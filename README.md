@@ -10,6 +10,7 @@ Although there's Thonny binaries for aarch64 in repositories, it seems that is a
 ## Install
 ```
 git clone https://github.com/Willy030125/thonny-3.3.14-aarch64
+cd thonny-3.3.14-aarch64/
 ```
 
 Install with minimal libs:
