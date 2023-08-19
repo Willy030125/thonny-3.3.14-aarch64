@@ -14,8 +14,8 @@ echo "Downloading $URL"
 
 TMPDIR=$(mktemp -d -p .)
 wget -O $TMPDIR/$FILENAME $URL
-tar -zxf $TMPDIR/$FILENAME -C $TMPDIR
-$TMPDIR/thonny/install
+tar -xzvf $TMPDIR/$FILENAME -C $TMPDIR
+sudo $TMPDIR/thonny/install
 rm -rf $TMPDIR
 
 echo 
