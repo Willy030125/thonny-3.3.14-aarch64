@@ -15,10 +15,10 @@ cd thonny-3.3.14-aarch64/
 
 Install with minimal libs:
 ```
-sudo ./thonny-3.3.14.bash
+sudo ./thonny-3.3.14-py37.bash
 ```
 
 Install with additional libs:
 ```
-sudo ./thonny-xxl-3.3.14.bash
+sudo ./thonny-xxl-3.3.14-py37.bash
 ```
