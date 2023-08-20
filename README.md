@@ -1,7 +1,7 @@
 # thonny-3.3.14-aarch64
 Thonny Python IDE for Linux aarch64 (arm64). I built this for other SBCs other than Raspberry Pi that doesn't come with Thonny IDE (especially Orange Pi).
 
-Although there's Thonny binaries for aarch64 in repositories, it seems that is an old version and outdated (especially Ubuntu 18.04 still using Python 3.6.9).
+Although there's Thonny binaries for aarch64 in the repositories, it seems that is an old version and has been outdated (especially Ubuntu 18.04 still using Python 3.6.9).
 
 - compiled with Python 3.7.9 and Python 3.8.10
 - the regular one compiled with minimal libs.
